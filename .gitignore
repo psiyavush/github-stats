@@ -14,4 +14,3 @@ vercel_token
 .vscode
 .eslintrc.json
 .husky
-test
