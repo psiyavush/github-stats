@@ -11,3 +11,4 @@
 ```md
 [![GitHub stats]()]()
 ```
+<img alt="rzashakeri's Github Stats" src="https://github-stats-psiyavushs-projects.vercel.app/api/?username=psiyavush&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
